@@ -1,4 +1,4 @@
-package com.ljava.designpatterns.decorator.cofeeshop.beverage;
+package com.ljava.designpatterns.decorator.cofeeshop;
 
 public class Milk extends AddOn {
 

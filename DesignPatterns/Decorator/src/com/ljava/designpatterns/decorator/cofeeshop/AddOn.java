@@ -1,6 +1,4 @@
-package com.ljava.designpatterns.decorator.cofeeshop.beverage;
-
-import com.ljava.designpatterns.decorator.cofeeshop.beverage.Beverage;
+package com.ljava.designpatterns.decorator.cofeeshop;
 
 public abstract class AddOn extends Beverage {
     protected Beverage beverage;

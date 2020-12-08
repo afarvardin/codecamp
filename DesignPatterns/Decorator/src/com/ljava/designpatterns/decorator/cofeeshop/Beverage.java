@@ -1,4 +1,4 @@
-package com.ljava.designpatterns.decorator.cofeeshop.beverage;
+package com.ljava.designpatterns.decorator.cofeeshop;
 
 public abstract class Beverage {
     private String description;
